@@ -44,7 +44,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@fontsource/plus-jakarta-sans": "^4.5.8",
+		"@fontsource/plus-jakarta-sans": "^4.5.10",
 		"svelte-meta-tags": "^2.6.1"
 	}
 }
